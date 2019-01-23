@@ -3,12 +3,12 @@
     padding-top: 10px;
 }
 ul{
-    list-style: none;
+    list-style-type: none;
 }
 li{
     display: block;
     line-height: 30px;
 }
 button{
-    height: 1;
+    line-height: 1;
 }
